@@ -1,0 +1,14 @@
+form {
+    margin: 0 auto;
+    width: 345px;
+    height: 417px;
+    border: 1px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: rgb(226, 226, 226);
+
+}
+
+button {
+    margin: 15px
+}
